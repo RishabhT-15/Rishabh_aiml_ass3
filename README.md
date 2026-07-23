@@ -19,6 +19,10 @@ The primary aim of this project is to construct a **Polynomial Regression (Degre
 4. **Performance Evaluation & Visualization**: Calculated regression metrics (MAE, MSE, $R^2$) on test predictions. Rendered a continuous non-linear curve over the raw data points to visually analyze model fit.
 
 ## Results
+Here is the visualized polynomial regression curve fitted against the actual dataset.
+
+![Polynomial Regression Curve (Degree 3)](salary_regression_chart.png)
+
 *Metric scores derived from model run:*
 - **Mean Absolute Error (MAE)**: Measures the average magnitude of absolute prediction errors.
 - **Mean Squared Error (MSE)**: Quantifies the average squared difference between true and predicted salaries.
