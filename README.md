@@ -21,7 +21,7 @@ The primary aim of this project is to construct a **Polynomial Regression (Degre
 ## Results
 Here is the visualized polynomial regression curve fitted against the actual dataset.
 
-![Polynomial Regression Curve (Degree 3)](salary_regression_chart.png)
+
 
 *Metric scores derived from model run:*
 - **Mean Absolute Error (MAE)**: Measures the average magnitude of absolute prediction errors.
